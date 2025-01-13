@@ -1,3 +1,5 @@
+//starter code
+
 function run() {
     sleep("Tigger");
   }
